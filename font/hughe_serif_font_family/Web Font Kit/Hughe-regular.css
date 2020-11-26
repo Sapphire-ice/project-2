@@ -1,0 +1,12 @@
+/* Webfont: Hughe-regular */@font-face {
+    font-family: 'Hughe2';
+    src: url('Hughe-regular.eot'); /* IE9 Compat Modes */
+    src: url('Hughe-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Hughe-regular.woff') format('woff'), /* Modern Browsers */
+         url('Hughe-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Hughe-regular.svg#Hughe-regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

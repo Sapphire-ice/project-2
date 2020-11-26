@@ -1,0 +1,12 @@
+/* Webfont: Hughe-Smooth */@font-face {
+    font-family: 'HugheSmooth';
+    src: url('Hughe-Smooth.eot'); /* IE9 Compat Modes */
+    src: url('Hughe-Smooth.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Hughe-Smooth.woff') format('woff'), /* Modern Browsers */
+         url('Hughe-Smooth.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Hughe-Smooth.svg#Hughe-Smooth') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,12 @@
+/* Webfont: Hughe-Bold */@font-face {
+    font-family: 'Hughe';
+    src: url('Hughe-Bold.eot'); /* IE9 Compat Modes */
+    src: url('Hughe-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Hughe-Bold.woff') format('woff'), /* Modern Browsers */
+         url('Hughe-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Hughe-Bold.svg#Hughe-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

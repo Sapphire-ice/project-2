@@ -1,0 +1,12 @@
+/* Webfont: Hughe-Round */@font-face {
+    font-family: 'HugheRound';
+    src: url('Hughe-Round.eot'); /* IE9 Compat Modes */
+    src: url('Hughe-Round.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Hughe-Round.woff') format('woff'), /* Modern Browsers */
+         url('Hughe-Round.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Hughe-Round.svg#Hughe-Round') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
